@@ -126,9 +126,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/robsonfmaciel/count.svg" alt="Visitor's Count">
   
-  ![Snake animation](https://github.com/robsonfmaciel/robsonfmaciel/blob
-
-/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/robsonmaciel/robsonmaciel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
