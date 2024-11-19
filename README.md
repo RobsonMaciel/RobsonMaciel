@@ -115,7 +115,7 @@
     <a href="https://t.me/RobsonGameDev" style="text-decoration: none; margin-right: 10px;">
       <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" title="Telegram" />
     </a>
-    <a href="https://dsc.bio/Robson.83" style="text-decoration: none;">
+    <a href="https://discord.com/users/robson.83" style="text-decoration: none;">
       <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" title="Discord" />
     </a>
   </div>
