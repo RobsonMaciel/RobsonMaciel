@@ -1,4 +1,11 @@
 # 👾 Robson Franco Maciel  
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=💡%20Passionate%20about%20creating%20immersive%20experiences%20with%20Unreal%20Engine;🎮%20Developing%20innovative%20projects%20in%20UE5;🛠️%20Creating%20tools%20and%20systems%20for%20advanced%20GamePlay;🌍%20Turning%20ideas%20into%20immersive%20worlds%20with%20Unreal%20Engine;🚀%20Over%2010%20years%20of%20dedication%20to%20technology%20and%20innovation%20in%20games&font=Fira%20Code&center=true&width=1000&height=50&color=FF5733&vCenter=true&pause=1500&size=24" alt="Typing SVG">
+  </a>
+</p>
+
 <a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="https://raw.githubusercontent.com/RobsonMaciel/RobsonMaciel/main/developerbg.png" /></a>
 
 <div style="flex: 1; padding: 20px;">
@@ -7,18 +14,14 @@
     - 💡 <strong>Passionate about creating innovative digital experiences</strong><br>
     - 📈 <strong>Over 10 years of experience in software development</strong>, including technical leadership, innovation in digital games, and creation of GamePlay tools<br>
     - 🛠️ <strong>Technical Coordinator in Unreal Engine Engineering</strong> | More than 4 years leading teams and complex projects<br>
-    - 🧑‍💻 <strong>Web3 Creator and Developer</strong> | Responsible for the Ballenas Incs - NFTs collection
+    - 🧑‍💻 <strong>Web3 Creator and Developer</strong> | Responsible for the Ballenas Incs - NFTs collection 👇👇👇
   </p>
 </div>
-
----
-
-<!-- Typing SVG -->
-<div style="margin-top: 20px; text-align: center;">
-  <a href="https://github.com/Robsonfmaciel/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=💡%20Passionate%20about%20creating%20immersive%20experiences%20with%20Unreal%20Engine;🎮%20Developing%20innovative%20projects%20in%20UE5;🛠️%20Creating%20tools%20and%20systems%20for%20advanced%20GamePlay;🌍%20Turning%20ideas%20into%20immersive%20worlds%20with%20Unreal%20Engine;🚀%20Over%2010%20years%20of%20dedication%20to%20technology%20and%20innovation%20in%20games&font=Fira%20Code&center=true&width=1200&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+<p align="center">
+  <a href="https://kujiraclubnft.com" title="Opens in a new tab">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🐋+Check+out+my+NFT+Collection!+Click+here!&font=Fira%20Code&center=true&width=650&height=60&color=0D6EFD&vCenter=true&pause=1500&size=24" alt="Typing SVG">
   </a>
-</div>
+</p>
 
 ---
 
