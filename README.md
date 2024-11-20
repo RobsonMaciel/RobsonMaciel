@@ -32,22 +32,24 @@
   <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#"/><br><b>C#</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine"/><br><b>Unreal Engine</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/><br><b>Unity</b></td> 
-  <td align="center"><img src="https://img.icons8.com/external-outline-geotatah/64/000000/external-blueprint-construction-outline-geotatah.png" alt="Blueprints"/><br><b>Blueprints</b></td> 
+  <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/blueprint.png" alt="Blueprints"/><br><b>Blueprints</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/><br><b>Jira</b></td> 
 </tr> 
 <tr> 
-  <td align="center"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-clickup-is-an-american-based-project-management-productivity-tool-logo-color-tal-revivo.png" alt="ClickUp"/><br><b>ClickUp</b></td> 
+  <td align="center"><img src="https://tortoisesvn.net/assets/img/TortoiseCheckout.a286e72d.png" alt="SVN" width="48"/><br><b>SVN</b>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket"/><br><b>Bitbucket</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/><br><b>Jenkins</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/blockchain.png" alt="Blockchain"/><br><b>Blockchain</b></td> 
-  <td align="center"><img src="https://img.icons8.com/fluency/48/000000/web3.png" alt="Web3"/><br><b>Web3</b></td> 
-  <td align="center"><img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-vr-virtual-reality-becris-flat-becris.png" alt="VR"/><br><b>VR</b></td> 
+  <td align="center"><img src="https://img.icons8.com/fluency/48/000000/blockchain-technology.png" alt="Web3"/><br><b>Web3</b></td> 
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/virtual-reality.png" alt="VR"/><br><b>VR</b></td> 
 </tr> 
 <tr> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/><br><b>Java</b></td> 
-  <td align="center"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/><br><b>Spring Boot</b></td> 
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/><br><b>Spring Boot</b></td>
 </tr> 
 </table>
+
+
 
 ---
 
