@@ -33,17 +33,16 @@
   <td align="center"><img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine"/><br><b>Unreal Engine</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity"/><br><b>Unity</b></td> 
   <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/blueprint.png" alt="Blueprints"/><br><b>Blueprints</b></td> 
-  <td align="center"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/><br><b>Jira</b></td> 
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/powershell.png" alt="Powershell"/><br><b>Powershell</b></td>
+  <td align="center"><img src="https://img.icons8.com/fluency/48/000000/blockchain-technology.png" alt="Web3"/><br><b>Web3</b></td>   
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/blockchain.png" alt="Blockchain"/><br><b>Blockchain</b></td> 
 </tr> 
 <tr> 
+  <td align="center"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira"/><br><b>Jira</b></td> 
   <td align="center"><img src="https://tortoisesvn.net/assets/img/TortoiseCheckout.a286e72d.png" alt="SVN" width="48"/><br><b>SVN</b>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket"/><br><b>Bitbucket</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/><br><b>Jenkins</b></td> 
-  <td align="center"><img src="https://img.icons8.com/color/48/000000/blockchain.png" alt="Blockchain"/><br><b>Blockchain</b></td> 
-  <td align="center"><img src="https://img.icons8.com/fluency/48/000000/blockchain-technology.png" alt="Web3"/><br><b>Web3</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/virtual-reality.png" alt="VR"/><br><b>VR</b></td> 
-</tr> 
-<tr> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/><br><b>Java</b></td> 
   <td align="center"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/><br><b>Spring Boot</b></td>
 </tr> 
@@ -56,7 +55,7 @@
 ## 🏆 Highlights and Achievements
 - 🌐 **Awards**: SiDi Communication and Recognition Award (2021/2022)  
 - 🎮 **Freelance Game Dev**: Developed systems for RPGs and item trading.  
-- 📢 **International Presentations**: Traveled to South Korea to showcase Unreal Engine solutions at Samsung.  
+- 📢 **International Presentations**: Participated in a technical visit to Samsung to validate a solution developed in Unreal Engine, including presenting the proposed concept and demonstrating its practical viability. The primary objective was to prove the solution's effectiveness and align its application with the company's  technical and strategic requirements.
 
 ---
 
