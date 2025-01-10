@@ -87,6 +87,11 @@
   <!-- <td><a href="https://www.youtube.com/watch?v=VAilSmYbg3o">Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;</a> (Sep 29, 2024)<br/></td> -->
 </tr>
 
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=WcbeCSSSXys"><img width="140px" src="https://i.ytimg.com/vi/WcbeCSSSXys/mqdefault.jpg"></a></td>
+  <!-- <td><a href="https://www.youtube.com/watch?v=VAilSmYbg3o">Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;</a> (Sep 29, 2024)<br/></td> -->
+</tr>
+
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
