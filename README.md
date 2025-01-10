@@ -58,41 +58,49 @@
 - 📢 **International Presentations**: Participated in a technical visit to Samsung to validate a solution developed in Unreal Engine, including presenting the proposed concept and demonstrating its practical viability. The primary objective was to prove the solution's effectiveness and align its application with the company's  technical and strategic requirements.
 
 ---
+## Latest YouTube videos
 
-### Latest YouTube videos
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=08TSeFGwcPU"><img width="140px" src="https://i.ytimg.com/vi/08TSeFGwcPU/mqdefault.jpg"></a></td>
-  <!-- <td><a href="https://www.youtube.com/watch?v=08TSeFGwcPU">Generate unit tests with EarlyAI</a> (Oct 30, 2024)<br/></td> -->
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=U8QUZ7xllMg"><img width="140px" src="https://i.ytimg.com/vi/U8QUZ7xllMg/mqdefault.jpg"></a></td>
-  <!-- <td><a href="https://www.youtube.com/watch?v=U8QUZ7xllMg">Stop creating Typescript interfaces manually &lpar;use quicktype&rpar;</a> (Oct 16, 2024)<br/></td> -->
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=3KrSj7YGDNo"><img width="140px" src="https://i.ytimg.com/vi/3KrSj7YGDNo/mqdefault.jpg"></a></td>
-  <!-- <td><a href="https://www.youtube.com/watch?v=3KrSj7YGDNo">Contribute to GitLab for Hacktoberfest!</a> (Oct 6, 2024)<br/></td> -->
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=vcgR1FJsGno"><img width="140px" src="https://i.ytimg.com/vi/vcgR1FJsGno/mqdefault.jpg"></a></td>
-  <!-- <td><a href="https://www.youtube.com/watch?v=vcgR1FJsGno">Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;</a> (Sep 29, 2024)<br/></td> -->
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=VAilSmYbg3o"><img width="140px" src="https://i.ytimg.com/vi/VAilSmYbg3o/mqdefault.jpg"></a></td>
-  <!-- <td><a href="https://www.youtube.com/watch?v=VAilSmYbg3o">Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;</a> (Sep 29, 2024)<br/></td> -->
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=WcbeCSSSXys"><img width="140px" src="https://i.ytimg.com/vi/WcbeCSSSXys/mqdefault.jpg"></a></td>
-  <!-- <td><a href="https://www.youtube.com/watch?v=VAilSmYbg3o">Mock out OAuth Provider using MswJS &lpar;NextJS and Next-Auth&rpar;</a> (Sep 29, 2024)<br/></td> -->
-</tr>
-
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=08TSeFGwcPU">
+        <img src="https://i.ytimg.com/vi/08TSeFGwcPU/mqdefault.jpg" alt="Video 1" width="200">
+      </a>
+      <p align="center">Teste de construção - Unity 3D</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=U8QUZ7xllMg">
+        <img src="https://i.ytimg.com/vi/U8QUZ7xllMg/mqdefault.jpg" alt="Video 2" width="200">
+      </a>
+      <p align="center">v1.1 - Teste construção em Unity 3D</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=3KrSj7YGDNo">
+        <img src="https://i.ytimg.com/vi/3KrSj7YGDNo/mqdefault.jpg" alt="Video 3" width="200">
+      </a>
+      <p align="center">Modular construction in Unity3D P1</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=vcgR1FJsGno">
+        <img src="https://i.ytimg.com/vi/vcgR1FJsGno/mqdefault.jpg" alt="Video 4" width="200">
+      </a>
+      <p align="center">Modular construction in Unity3D P2</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=VAilSmYbg3o">
+        <img src="https://i.ytimg.com/vi/VAilSmYbg3o/mqdefault.jpg" alt="Video 5" width="200">
+      </a>
+      <p align="center">Speed Level (Unreal Engine 4) #1</p>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=WcbeCSSSXys">
+        <img src="https://i.ytimg.com/vi/WcbeCSSSXys/mqdefault.jpg" alt="Video 6" width="200">
+      </a>
+      <p align="center">Speed Level Design UE5 - Avenida dos Imigrantes - Valinhos</p>
+    </td>
+  </tr>
 </table>
 
 ---
