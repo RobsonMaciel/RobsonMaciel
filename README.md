@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="https://raw.githubusercontent.com/RobsonMaciel/RobsonMaciel/main/developerbg.png" /></a>
+<a href="[https://eddiejaoude.substack.com/p/links](https://kujiraclubnft.com)" target="_blank"><img src="https://raw.githubusercontent.com/RobsonMaciel/RobsonMaciel/main/developerbg.png" /></a>
 
 <div style="flex: 1; padding: 20px;">
   <p style="font-size: 18px; font-weight: bold; line-height: 1.5; margin: 0;">
